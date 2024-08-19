@@ -1,7 +1,7 @@
 <script setup>
-defineOptions({
-  inheritAttrs: false
-})
+  defineOptions({
+    inheritAttrs: false,
+  })
 </script>
 
 <template>
